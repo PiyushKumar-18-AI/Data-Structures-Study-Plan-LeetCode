@@ -1,1 +1,1 @@
-# Data-Structures-Study-Plan-LeetCode
+# Data Structures Study Plan LeetCode
