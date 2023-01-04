@@ -1,6 +1,7 @@
 ## 118. Pascal's Triangle
 
 
+
 class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
